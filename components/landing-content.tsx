@@ -56,17 +56,17 @@ export const LandingContent = () => {
                 }  
             </div>
             <div className="flex items-center justify-center gap-x-2 pt-20">
-                <Link href="https://github.com/C0deMunk33/bespoke_automata">
+                <Link href="https://github.com/semanticsean/ATAT">
                     <Button variant="default" className="rounded-full">
                         GitHub
                     </Button>
                 </Link>
-                <Link href="https://discord.gg/NHFMcsh8pJ">
+                <Link href="https://discord.gg">
                     <Button variant="default" className="rounded-full">
                         Discord
                     </Button>
                 </Link>
-                <Link href="https://twitter.com/icodeagents">
+                <Link href="https://twitter.com/semanticlife">
                     <Button variant="default" className="rounded-full">
                         X
                     </Button>

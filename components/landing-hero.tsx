@@ -53,7 +53,7 @@ export const LandingHero = () => {
                         Leverage Intelligence via the Universal Interface of Business:
                         </div>
                         <div>
-                            <Link href="https://github.com/C0deMunk33/bespoke_automata">
+                            <Link href="https://github.com/semanticsean/ATAT">
                                     <Button variant="default">
                                         GitHub
                                     </Button>

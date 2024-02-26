@@ -20,7 +20,7 @@ export const LandingHero = () => {
         <div className="text-gray-900 font-bold pt-24 sm:pt-36 text-center space-y-5">
             <div className="text-transparent bg-clip-text bg-gradient-to-r
                 from-zinc-200 to-[#10344c] pb-3 text-4xl sm:text-5xl md:text-6xl lg:text-7xl
-                space-y-5 font-extrabold">
+                space-y-2 font-extrabold">
                 <TypewriterComponent 
                     options={{
                         strings: [
@@ -35,8 +35,8 @@ export const LandingHero = () => {
                 />
             </div>
             <div className="flex flex-col sm:flex-row justify-center pt-10">
-                <div className="flex-1 mx-10 aspect-video">
-                    <img src="https://semantic-life.com/static/atat.jpg" alt="atat" />
+                <div className="mx-auto">
+                    <img src="https://raw.githubusercontent.com/semanticsean/ATAT/main/static/logos/atat-glyph.png" alt="atat" />
                 </div>
                 <div className="mt-10">
                     <div className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl

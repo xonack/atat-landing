@@ -42,7 +42,7 @@ export const LandingHero = () => {
                     <div className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl
                     space-y-5 font-extrabold">
                         <h1>
-                            Email AI Agents
+                            ATAT Email AI Agents
                         </h1>
                     </div>
                     <div className="text-sm md:text-xl front-light text-gray-700 pt-10">
